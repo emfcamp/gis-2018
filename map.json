@@ -1,0 +1,17 @@
+{
+	"stylesheet_path": "./styles",
+	"symbol_path": "./symbols",
+	"plugins": [],
+        "extents": [52.04396, -2.36340, 52.0248, -2.4090],
+	"zoom_range": [ 7, 20 ],
+	"source_projection": "epsg:27700",
+	
+	"source_file": {
+		"site_plan": {
+			"path": "../gis/emf2018.dxf",
+			"auto_import_layers": "true"
+		}
+	},
+
+	"mapbox_vector_layer": true
+}
