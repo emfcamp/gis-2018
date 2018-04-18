@@ -93,7 +93,7 @@ Standard
   9
 $CLAYER
   8
-NOC ... DK
+Areas ... Camping
   9
 $CELTYPE
   6
@@ -445,19 +445,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2458227.561256296
+2458227.572795174
   9
 $TDUCREATE
  40
-2458227.561256296
+2458227.572795174
   9
 $TDUPDATE
  40
-2458227.56125654
+2458227.572795417
   9
 $TDUUPDATE
  40
-2458227.56125654
+2458227.572795417
   9
 $TDINDWG
  40
@@ -885,7 +885,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{65837cfb-446b-4941-b6b9-78eac64c9251}
+{3cf18a33-221d-3a41-82d4-d9260d850db4}
   9
 $VERSIONGUID
   2
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-374046.0086430345
+374200.4686779115
  22
-238133.4937279934
+238053.2309903704
  13
 0.0
  23
@@ -1171,9 +1171,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-723.5912380076479
+116.8640246684081
  41
-1.67167630057803
+1.67167630057828
  42
 50.0
  43
@@ -3445,7 +3445,7 @@ AcDbLayerTableRecord
   2
 Structures
  70
-     4
+     0
  62
    178
 420
@@ -3621,7 +3621,7 @@ AcDbLayerTableRecord
   2
 NOC ... DK Radius
  70
-     0
+     4
  62
    216
 420
@@ -3673,7 +3673,7 @@ AcDbLayerTableRecord
   2
 NOC ... DK
  70
-     4
+     0
  62
    178
 420
@@ -3865,7 +3865,7 @@ AcDbLayerTableRecord
   2
 Areas ... Camping
  70
-     4
+     0
  62
     96
 420
@@ -3889,7 +3889,7 @@ AcDbLayerTableRecord
   2
 Areas
  70
-     4
+     0
  62
    178
 420
@@ -4013,7 +4013,7 @@ AcDbLayerTableRecord
   2
 NOC
  70
-     4
+     0
  62
    178
 420
@@ -112011,7 +112011,7 @@ AcDbPolyline
 1001
 QCAD
 1000
-camping:Camper Vans
+camping:Vehicles
   0
 LWPOLYLINE
   5
@@ -124855,7 +124855,7 @@ AcDbXrecord
 280
      1
  40
-723.5912380076479
+116.8640246684081
   0
 XRECORD
   5
@@ -124873,7 +124873,7 @@ AcDbXrecord
 280
      1
  40
-1209.610323883302
+195.3588204283733
   0
 DICTIONARY
   5
