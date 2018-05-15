@@ -15,5 +15,11 @@
 
 	"mapbox_vector_layer": {
             "attribution": "© Electromagnetic Field"
+        },
+
+        "plugins": {
+            "power": {
+                "layer_prefix": "Power ... "
+            }
         }
 }
