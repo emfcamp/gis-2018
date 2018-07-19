@@ -19,7 +19,9 @@
 
         "plugins": {
             "power": {
-                "layer_prefix": "Power ... "
+                "name": "Electromagnetic Field 2018",
+                "layer_prefix": "Power ... ",
+                "spec_dir": "../gis/power"
             }
         }
 }
