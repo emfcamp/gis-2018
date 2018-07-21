@@ -22,6 +22,28 @@
                 "name": "Electromagnetic Field 2018",
                 "layer_prefix": "Power ... ",
                 "spec_dir": "../gis/power"
+            },
+            "stats": {
+                "length": [
+                    "Heras (internal)",
+                    "Heras (perimeter)", 
+                    "Lighting ... Festoon"
+                ],
+                "count": [
+                    "Fire ... Fire Blanket",
+                    "Fire ... Foam Extinguisher",
+                    "Fire ... Water Extinguisher"
+                ],
+                "area": {
+                    "Camping": {
+                        "sql": "SELECT ST_Area(wkb_geometry) AS area, camping AS name FROM site_plan WHERE layer = 'Areas ... Camping' AND camping != 'Vehicles'",
+                        "density": 18
+                    },
+                    "Camping Vehicles": {
+                        "sql": "SELECT ST_Area(wkb_geometry) AS area, camping AS name FROM site_plan WHERE layer = 'Areas ... Camping' AND camping = 'Vehicles'",
+                        "density": 90
+                    }
+                }
             }
         }
 }
