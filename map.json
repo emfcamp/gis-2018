@@ -44,6 +44,10 @@
                         "density": 90
                     }
                 }
+            },
+            "noc": {
+                "name": "Electromagnetic Field 2018",
+                "layer_prefix": "NOC ... "
             }
         }
 }
