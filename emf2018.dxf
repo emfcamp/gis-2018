@@ -445,19 +445,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2458323.083168391
+2458323.087530972
   9
 $TDUCREATE
  40
-2458322.999835058
+2458323.004197639
   9
 $TDUPDATE
  40
-2458323.083168889
+2458323.08753147
   9
 $TDUUPDATE
  40
-2458322.999835555
+2458323.004198137
   9
 $TDINDWG
  40
@@ -885,7 +885,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{3465ae17-0401-4a09-ad60-a7abb753a68e}
+{8bd21d07-5a2d-405d-851e-90e4f59b865a}
   9
 $VERSIONGUID
   2
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-374259.6194665559
+374145.022669966
  22
-238242.2091636132
+238288.6054081699
  13
 0.0
  23
@@ -1171,9 +1171,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-143.9280343449209
+207.2563694566779
  41
-2.404918032786725
+2.404918032786864
  42
 50.0
  43
@@ -3833,7 +3833,7 @@ AcDbLayerTableRecord
   2
 NOC ... Copper
  70
-     0
+     4
  62
      9
 420
@@ -4425,7 +4425,7 @@ AcDbLayerTableRecord
   2
 NOC
  70
-     0
+     4
  62
     18
 420
@@ -127265,7 +127265,7 @@ AcDbPolyline
 1001
 QCAD
 1000
-cores:3
+cores:4
 1000
 updowns:1
   0
@@ -127417,7 +127417,7 @@ AcDbPolyline
 1001
 QCAD
 1000
-cores:1
+cores:2
   0
 POINT
   5
@@ -127781,7 +127781,7 @@ AcDbPolyline
 1001
 QCAD
 1000
-cores:4
+cores:5
 1000
 updowns:1
   0
@@ -128427,7 +128427,7 @@ AcDbPolyline
 1001
 QCAD
 1000
-cores:2
+cores:3
 1000
 updowns:1
   0
@@ -128475,7 +128475,7 @@ AcDbPolyline
 1001
 QCAD
 1000
-cores:3
+cores:4
 1000
 updowns:1
   0
@@ -128613,7 +128613,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-NOC ... Copper
+NOC ... Fibre
 100
 AcDbPolyline
  90
@@ -129265,7 +129265,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-NOC ... Copper
+NOC ... Fibre
 100
 AcDbPolyline
  90
@@ -138883,7 +138883,7 @@ AcDbXrecord
 280
      1
  40
-143.9280343449209
+207.2563694566779
   0
 XRECORD
   5
@@ -138901,7 +138901,7 @@ AcDbXrecord
 280
      1
  40
-346.1351252196473
+498.4345803163014
   0
 DICTIONARY
   5
