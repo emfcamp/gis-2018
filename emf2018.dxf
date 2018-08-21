@@ -93,7 +93,7 @@ Standard
   9
 $CLAYER
   8
-Labels
+Paths
   9
 $CELTYPE
   6
@@ -485,19 +485,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2458352.765847801
+2458352.767368901
   9
 $TDUCREATE
  40
-2458352.765847801
+2458352.767368901
   9
 $TDUPDATE
  40
-2458352.765848137
+2458352.767369236
   9
 $TDUUPDATE
  40
-2458352.765848137
+2458352.767369236
   9
 $TDINDWG
  40
@@ -925,7 +925,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{6ef9c55f-2356-434a-ad45-6672e1d513c7}
+{e54ce4b5-e5c2-6941-a011-290356639150}
   9
 $VERSIONGUID
   2
@@ -3965,7 +3965,7 @@ AcDbLayerTableRecord
   2
 Labels
  70
-     0
+     4
  62
    178
 420
@@ -4129,7 +4129,7 @@ AcDbLayerTableRecord
   2
 Paths ... Fire
  70
-     4
+     0
  62
    253
 420
@@ -5119,7 +5119,7 @@ AcDbLayerTableRecord
   2
 Power
  70
-     0
+     4
  62
    178
 420
@@ -5132,6 +5132,10 @@ Continuous
 28C48
 347
 28C7E
+1001
+QCAD
+1000
+collapsed:1
   0
 LAYER
   5
@@ -136693,7 +136697,7 @@ AcDbPolyline
  90
         5
  70
-   128
+   129
  43
 0.0
  10
